@@ -7,6 +7,7 @@ export default defineUserConfig({
   lang: 'en-US',
   title: 'Hello,VuePress',
   description: 'My first VuePress Site',
+  base: '/<仓库名>/',
 
   theme: defaultTheme({
     logo: '/logo.png',
