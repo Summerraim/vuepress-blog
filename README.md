@@ -4,8 +4,8 @@ This project is configured to deploy to GitHub Pages with GitHub Actions.
 
 ## Current settings
 
-- Repository: `Summerraim/vuepress-blog`
-- VuePress base: `/vuepress-blog/`
+- Repository: `Summerraim/Myblog`
+- VuePress base: `/Myblog/`
 - Publish branch: GitHub Pages Actions artifact deployment
 
 ## Deploy steps
@@ -14,7 +14,7 @@ This project is configured to deploy to GitHub Pages with GitHub Actions.
 2. In GitHub, open `Settings -> Pages`.
 3. Set `Source` to `GitHub Actions`.
 4. Open the `Actions` tab and wait for the `Deploy Docs` workflow to finish.
-5. Visit `https://summerraim.github.io/vuepress-blog/`
+5. Visit `https://summerraim.github.io/Myblog/`
 
 ## Notes
 
